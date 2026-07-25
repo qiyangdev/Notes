@@ -35,3 +35,6 @@
 )
 
 #include "chapters/01-app-router-basics.typ"
+#include "chapters/02-server-and-client-components.typ"
+#include "chapters/03-dynamic-routing.typ"
+#include "chapters/04-env-and-security.typ"

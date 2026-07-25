@@ -16,7 +16,9 @@ Next.js define some file for sepcial usage:
 - `route.ts`: Defines an API endpoint and returns responses such as JSON.
 
 `page.tsx` and `loading.tsx` are usually placed in the same route segment folder.
+
 `error.tsx` usually is cilent component.
+
 `not-found.tsx` usually placed at root.
 
 == Metadata API
