@@ -4,32 +4,32 @@
 #set text(lang: "en")
 
 #show: reading-note.with(
-  title: [Reading Notes on\ Next.js Foundations],
+  title: [Course Notes on\ Next.js Foundations],
   authors: "Qiyang Wang",
   preface: [
     = Preface
-    
-    This document is an independent collection of personal reading notes
-    on _Next.js Foundations_,
-    written by Joel Hooks and published by Vercel.
-    
-    These notes are not an authorized reproduction, translation, or
-    substitute for the original book. They are not affiliated with or
-    endorsed by the author, the publisher, or Oracle.
-    
-    Copyright in the original book, quoted passages, figures, and other
-    third-party material remains with the respective copyright holders.
-    Limited excerpts are included only where necessary for commentary,
-    criticism, study, and research, with their sources identified wherever
-    practicable. Readers should consult and purchase the original book for
-    the complete material.
-    
-    Except for material attributed to third parties, the original
-    commentary, explanations, organization, and examples in these notes
-    are © 2026 Qiyang Wang. All rights reserved.
-    
-    Any errors or interpretations in these notes are solely those of the
-    note author.
+
+    These course notes document my progress through
+    #link("https://vercel.com/academy/nextjs-foundations")[_Next.js Foundations_],
+    a self-paced, hands-on workshop from Vercel Academy by Joel Hooks. The
+    course develops production-oriented Next.js practices by incrementally
+    building and deploying two applications in a Turborepo monorepo.
+
+    My aim is to capture the underlying mental models, trade-offs, and
+    reusable patterns rather than reproduce each lesson. In particular, the
+    notes emphasize the App Router, Server and Client Component boundaries,
+    routing, data flow, performance, security, and deployment.
+
+    This is an independent set of course notes and is not affiliated with or
+    endorsed by Joel Hooks or Vercel. Because both the course and Next.js
+    continue to evolve, consult the original lessons and official
+    documentation for the most current guidance.
+
+    Copyright in quoted passages, figures, code, and other attributed material
+    remains with the respective rights holders. Unless otherwise credited,
+    the commentary, explanations, organization, and examples are © 2026
+    Qiyang Wang. All rights reserved. Any errors or misinterpretations are my
+    own.
   ],
   bibliography: bibliography("refs.bib"),
 )

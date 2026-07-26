@@ -8,28 +8,24 @@
   authors: "Qiyang Wang",
   preface: [
     = Preface
-    
-    This document is an independent collection of personal reading notes
-    on _The Algorithm Design Manual, 3rd Edition_ @skiena2020algorithm,
-    written by Matt Frisbie and published by Wiley.
-    
-    These notes are not an authorized reproduction, translation, or
-    substitute for the original book. They are not affiliated with or
-    endorsed by the author, the publisher, or Oracle.
-    
-    Copyright in the original book, quoted passages, figures, and other
-    third-party material remains with the respective copyright holders.
-    Limited excerpts are included only where necessary for commentary,
-    criticism, study, and research, with their sources identified wherever
-    practicable. Readers should consult and purchase the original book for
-    the complete material.
-    
-    Except for material attributed to third parties, the original
-    commentary, explanations, organization, and examples in these notes
-    are © 2026 Qiyang Wang. All rights reserved.
-    
-    Any errors or interpretations in these notes are solely those of the
-    note author.
+
+    These notes accompany my study of Steven S. Skiena's
+    _The Algorithm Design Manual, 3rd Edition_ @skiena2020algorithm,
+    published by Springer. They distill the ideas I found most useful,
+    record my own explanations, and emphasize the habits of reasoning that
+    make algorithms easier to design, analyze, and implement.
+
+    This is a selective study companion, not a chapter-by-chapter reproduction
+    or a substitute for the book. Readers should consult the original work for
+    its complete discussions, examples, exercises, and references.
+
+    These notes are independently written and are not affiliated with or
+    endorsed by the author or publisher. Copyright in quoted passages,
+    figures, and other attributed material remains with the respective rights
+    holders. Unless otherwise credited, the commentary, explanations,
+    organization, and examples are © 2026 Qiyang Wang. All rights reserved.
+
+    Any errors or misinterpretations are my own.
   ],
   bibliography: bibliography("refs.bib"),
 )

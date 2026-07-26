@@ -1,4 +1,5 @@
-#import "@preview/ilm:2.1.1": ilm
+#import "@preview/ilm:2.1.1": *
+#import "@preview/lovelace:0.3.1": *
 
 #let reading-note = ilm.with(
   paper-size: "a4",
