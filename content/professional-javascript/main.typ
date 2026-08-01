@@ -39,3 +39,4 @@
 )
 
 #include "chapters/01-what-is-javascript.typ"
+#include "chapters/03-language-basics.typ"
